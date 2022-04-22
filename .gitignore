@@ -1,0 +1,10 @@
+node_modules/
+.cache/
+public
+.vscode
+.vs
+.idea
+
+*.log
+.DS_Store
+Thumb.db
